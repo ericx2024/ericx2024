@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x8mv9fydnsawknrf8dxr2dwh9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **ericx2024/ericx2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
